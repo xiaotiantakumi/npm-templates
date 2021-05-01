@@ -1,0 +1,15 @@
+{
+  "name": "20210501",
+  "version": "1.0.0",
+  "description": "learn npm and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "takumi oda",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
